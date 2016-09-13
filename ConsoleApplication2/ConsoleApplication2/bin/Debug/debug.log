@@ -1,0 +1,470 @@
+[0909/162540:ERROR:process_info.cc(608)] range at 0xffaef000, size 0x230 fully unreadable
+[0909/162540:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0909/162540:ERROR:exception_snapshot_win.cc(88)] thread ID 6808 not found in process
+[0909/162540:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0909/162544:ERROR:process_info.cc(330)] VirtualQueryEx: Odmowa dostêpu. (0x5)
+[0909/162544:ERROR:process_info.cc(547)] ReadMemoryInfo failed
+[0909/162544:ERROR:process_info.cc(608)] range at 0xff3ad000, size 0x230 fully unreadable
+[0909/162544:ERROR:process_info.cc(608)] range at 0x0, size 0x24 fully unreadable
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x0 of 36 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:ERROR:process_snapshot_win.cc(367)] ReadMemory PEB_LDR_DATA
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x0 of 784 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:ERROR:process_snapshot_win.cc(390)] ReadMemory RTL_USER_PROCESS_PARAMETERS
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x767b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\KERNEL32.DLL
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75300000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\bcryptPrimitives.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75360000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\CRYPTBASE.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75370000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\SspiCli.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x768e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\RPCRT4.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x769d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\sechost.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x771c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\ADVAPI32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6b4d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\52.0.2743.116\chrome_elf.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x751d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\VERSION.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\GDI32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77520000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\USER32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\MSCTF.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76550000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x778c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\cfgmgr32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76570000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\DEVOBJ.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74d90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINMMBASE.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74e50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINMM.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76db0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\profapi.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76590000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\USERENV.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75210000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WTSAPI32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\combase.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x728b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINHTTP.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76990000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\SHLWAPI.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x753a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\SHELL32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74d10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\shcore.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77100000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\PSAPI.DLL
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74ee0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINSPOOL.DRV
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74f40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.9200.17359_none_8935f06086091acc\COMCTL32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77a40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\COMDLG32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76fe0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\ole32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76e20000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\OLEAUT32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76bf0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\NSI.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x72610000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINNSI.DLL
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x72620000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\IPHLPAPI.DLL
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77970000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WS2_32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6d6b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\USP10.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76c00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\MSASN1.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76c20000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\CRYPT32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76dd0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINTRUST.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74e00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\Secur32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x60240000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\52.0.2743.116\chrome_child.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6d6e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\dwrite.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77e5f1c0 of 5888 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0xca0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\ntdll.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77110000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\KERNELBASE.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x767b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\KERNEL32.DLL
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77640000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\msvcrt.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75300000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\bcryptPrimitives.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75360000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\CRYPTBASE.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75370000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\SspiCli.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x768e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\RPCRT4.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x769d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\sechost.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x771c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\ADVAPI32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6b4d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\52.0.2743.116\chrome_elf.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x751d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\VERSION.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\GDI32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77520000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\USER32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\MSCTF.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76550000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x778c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\cfgmgr32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76570000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\DEVOBJ.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74d90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINMMBASE.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74e50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINMM.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76db0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\profapi.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76590000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\USERENV.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75210000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WTSAPI32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\combase.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x728b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINHTTP.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76990000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\SHLWAPI.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x753a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\SHELL32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74d10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\shcore.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77100000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\PSAPI.DLL
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74ee0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINSPOOL.DRV
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74f40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.9200.17359_none_8935f06086091acc\COMCTL32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77a40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\COMDLG32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76fe0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\ole32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76e20000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\OLEAUT32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76bf0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\NSI.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x72610000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINNSI.DLL
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x72620000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\IPHLPAPI.DLL
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77970000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WS2_32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6d6b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\USP10.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76c00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\MSASN1.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76c20000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\CRYPT32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76dd0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINTRUST.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74e00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\Secur32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x60240000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\52.0.2743.116\chrome_child.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6d6e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\dwrite.dll
+[0909/162544:ERROR:process_reader_win.cc(99)] process 7868 not found
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0xca0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77d70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\ntdll.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77110000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\KERNELBASE.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x767b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\KERNEL32.DLL
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77640000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\msvcrt.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75300000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\bcryptPrimitives.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75360000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\CRYPTBASE.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75370000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\SspiCli.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x768e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\RPCRT4.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x769d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\sechost.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x771c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\ADVAPI32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6b4d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\52.0.2743.116\chrome_elf.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x751d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\VERSION.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\GDI32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77520000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\USER32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\MSCTF.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76550000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x778c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\cfgmgr32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76570000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\DEVOBJ.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74d90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINMMBASE.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74e50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINMM.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76db0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\profapi.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76590000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\USERENV.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x75210000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WTSAPI32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77b70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\combase.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x728b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINHTTP.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76990000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\SHLWAPI.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x753a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\SHELL32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74d10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\shcore.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77100000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\PSAPI.DLL
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74ee0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINSPOOL.DRV
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74f40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.9200.17359_none_8935f06086091acc\COMCTL32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77a40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\COMDLG32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76fe0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\ole32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76e20000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\OLEAUT32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76bf0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\NSI.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x72610000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINNSI.DLL
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x72620000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\IPHLPAPI.DLL
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x77970000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WS2_32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6d6b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\USP10.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76c00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\MSASN1.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76c20000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\CRYPT32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x76dd0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\WINTRUST.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x74e00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\Secur32.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x60240000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\52.0.2743.116\chrome_child.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6d6e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Windows\SYSTEM32\dwrite.dll
+[0909/162544:ERROR:process_reader_win.cc(233)] ReadMemory at 0xd5fbb4 of 12 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0909/162544:WARNING:process_snapshot_win.cc(104)] ReadMemory ExceptionInformation failed
+[0909/162544:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0909/162544:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0909/174006:ERROR:process_info.cc(608)] range at 0xff05f000, size 0x230 fully unreadable
+[0909/174006:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0909/174006:ERROR:exception_snapshot_win.cc(88)] thread ID 8516 not found in process
+[0909/174006:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/005004:ERROR:process_info.cc(608)] range at 0xfe9ff000, size 0x230 fully unreadable
+[0913/005004:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/005004:ERROR:exception_snapshot_win.cc(88)] thread ID 7744 not found in process
+[0913/005004:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/012958:ERROR:process_info.cc(608)] range at 0xfe3cf000, size 0x230 fully unreadable
+[0913/012958:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/012958:ERROR:exception_snapshot_win.cc(88)] thread ID 9168 not found in process
+[0913/012958:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/013217:ERROR:process_info.cc(608)] range at 0xfeff8000, size 0x230 fully unreadable
+[0913/013217:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/013217:ERROR:exception_snapshot_win.cc(88)] thread ID 4000 not found in process
+[0913/013217:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/013320:ERROR:process_info.cc(608)] range at 0xfeebf000, size 0x230 fully unreadable
+[0913/013320:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/013320:ERROR:exception_snapshot_win.cc(88)] thread ID 5932 not found in process
+[0913/013320:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/013420:ERROR:process_info.cc(608)] range at 0xfea5b000, size 0x230 fully unreadable
+[0913/013420:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/013420:ERROR:exception_snapshot_win.cc(88)] thread ID 6344 not found in process
+[0913/013420:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/020903:ERROR:process_info.cc(608)] range at 0xff2d7000, size 0x230 fully unreadable
+[0913/020903:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/020903:ERROR:exception_snapshot_win.cc(88)] thread ID 5744 not found in process
+[0913/020903:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/022224:ERROR:process_info.cc(608)] range at 0xff566000, size 0x230 fully unreadable
+[0913/022224:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/022224:ERROR:exception_snapshot_win.cc(88)] thread ID 6872 not found in process
+[0913/022224:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/110244:ERROR:process_info.cc(608)] range at 0xff08e000, size 0x230 fully unreadable
+[0913/110244:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/110244:ERROR:exception_snapshot_win.cc(88)] thread ID 3300 not found in process
+[0913/110244:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/110246:ERROR:process_info.cc(608)] range at 0xff7a7000, size 0x230 fully unreadable
+[0913/110246:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/110246:ERROR:exception_snapshot_win.cc(88)] thread ID 8528 not found in process
+[0913/110246:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/114835:ERROR:process_info.cc(608)] range at 0xffaca000, size 0x230 fully unreadable
+[0913/114835:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/114835:ERROR:exception_snapshot_win.cc(88)] thread ID 7272 not found in process
+[0913/114835:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/121855:ERROR:process_info.cc(608)] range at 0xff3c3000, size 0x230 fully unreadable
+[0913/121855:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/121855:ERROR:exception_snapshot_win.cc(88)] thread ID 2104 not found in process
+[0913/121855:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/124318:ERROR:process_info.cc(608)] range at 0xff038000, size 0x230 fully unreadable
+[0913/124318:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/124318:ERROR:exception_snapshot_win.cc(88)] thread ID 6432 not found in process
+[0913/124318:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/124418:ERROR:process_info.cc(608)] range at 0xfe736000, size 0x230 fully unreadable
+[0913/124418:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/124418:ERROR:exception_snapshot_win.cc(88)] thread ID 7080 not found in process
+[0913/124418:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/124805:ERROR:process_info.cc(608)] range at 0xfeece000, size 0x230 fully unreadable
+[0913/124805:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/124805:ERROR:exception_snapshot_win.cc(88)] thread ID 420 not found in process
+[0913/124805:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/124848:ERROR:process_info.cc(608)] range at 0xfef37000, size 0x230 fully unreadable
+[0913/124848:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/124848:ERROR:exception_snapshot_win.cc(88)] thread ID 7528 not found in process
+[0913/124848:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/125009:ERROR:process_info.cc(608)] range at 0xff6cf000, size 0x230 fully unreadable
+[0913/125009:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/125009:ERROR:exception_snapshot_win.cc(88)] thread ID 3000 not found in process
+[0913/125009:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/132309:ERROR:process_info.cc(608)] range at 0xff6db000, size 0x230 fully unreadable
+[0913/132309:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/132309:ERROR:exception_snapshot_win.cc(88)] thread ID 8356 not found in process
+[0913/132309:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/132700:ERROR:process_info.cc(608)] range at 0xff176000, size 0x230 fully unreadable
+[0913/132700:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/132700:ERROR:exception_snapshot_win.cc(88)] thread ID 8440 not found in process
+[0913/132700:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/133952:ERROR:process_info.cc(608)] range at 0xffe18000, size 0x230 fully unreadable
+[0913/133952:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/133952:ERROR:exception_snapshot_win.cc(88)] thread ID 8836 not found in process
+[0913/133952:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/135119:ERROR:process_info.cc(608)] range at 0xfea4e000, size 0x230 fully unreadable
+[0913/135119:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/135119:ERROR:exception_snapshot_win.cc(88)] thread ID 4016 not found in process
+[0913/135119:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/135425:ERROR:process_info.cc(608)] range at 0xff77e000, size 0x230 fully unreadable
+[0913/135425:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/135425:ERROR:exception_snapshot_win.cc(88)] thread ID 6648 not found in process
+[0913/135425:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/135432:ERROR:process_info.cc(608)] range at 0xff87d000, size 0x230 fully unreadable
+[0913/135432:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/135432:ERROR:exception_snapshot_win.cc(88)] thread ID 4744 not found in process
+[0913/135432:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/140017:ERROR:process_info.cc(608)] range at 0xfefdf000, size 0x230 fully unreadable
+[0913/140017:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/140017:ERROR:exception_snapshot_win.cc(88)] thread ID 7196 not found in process
+[0913/140017:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/140423:ERROR:process_info.cc(608)] range at 0xfef6f000, size 0x230 fully unreadable
+[0913/140423:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/140423:ERROR:exception_snapshot_win.cc(88)] thread ID 4956 not found in process
+[0913/140423:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/140526:ERROR:process_info.cc(608)] range at 0xff917000, size 0x230 fully unreadable
+[0913/140526:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/140526:ERROR:exception_snapshot_win.cc(88)] thread ID 6264 not found in process
+[0913/140526:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/140527:ERROR:process_info.cc(608)] range at 0xff0a5000, size 0x230 fully unreadable
+[0913/140527:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/140527:ERROR:exception_snapshot_win.cc(88)] thread ID 2216 not found in process
+[0913/140527:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/142808:ERROR:process_info.cc(608)] range at 0xfeffe000, size 0x230 fully unreadable
+[0913/142808:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/142808:ERROR:exception_snapshot_win.cc(88)] thread ID 1384 not found in process
+[0913/142808:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/153632:ERROR:process_info.cc(608)] range at 0xfed2f000, size 0x230 fully unreadable
+[0913/153632:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/153632:ERROR:exception_snapshot_win.cc(88)] thread ID 8328 not found in process
+[0913/153632:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/160451:ERROR:process_info.cc(608)] range at 0xff41a000, size 0x230 fully unreadable
+[0913/160451:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/160451:ERROR:exception_snapshot_win.cc(88)] thread ID 6264 not found in process
+[0913/160451:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/160451:ERROR:process_info.cc(608)] range at 0xfeaa8000, size 0x230 fully unreadable
+[0913/160452:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/160452:ERROR:exception_snapshot_win.cc(88)] thread ID 7364 not found in process
+[0913/160452:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/163132:ERROR:process_info.cc(608)] range at 0xff53f000, size 0x230 fully unreadable
+[0913/163132:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/163132:ERROR:exception_snapshot_win.cc(88)] thread ID 9140 not found in process
+[0913/163132:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/165930:ERROR:process_info.cc(608)] range at 0xfeef4000, size 0x230 fully unreadable
+[0913/165930:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/165930:ERROR:exception_snapshot_win.cc(88)] thread ID 2024 not found in process
+[0913/165930:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/165932:ERROR:process_info.cc(608)] range at 0xfe6df000, size 0x230 fully unreadable
+[0913/165932:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/165932:ERROR:exception_snapshot_win.cc(88)] thread ID 580 not found in process
+[0913/165932:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/165932:ERROR:process_info.cc(608)] range at 0xfece4000, size 0x230 fully unreadable
+[0913/165932:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/165932:ERROR:exception_snapshot_win.cc(88)] thread ID 6952 not found in process
+[0913/165932:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/225400:ERROR:process_info.cc(608)] range at 0xff04f000, size 0x230 fully unreadable
+[0913/225400:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/225400:ERROR:exception_snapshot_win.cc(88)] thread ID 10292 not found in process
+[0913/225400:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/225405:ERROR:process_info.cc(608)] range at 0xfe5c9000, size 0x230 fully unreadable
+[0913/225405:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/225405:ERROR:exception_snapshot_win.cc(88)] thread ID 9872 not found in process
+[0913/225405:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/225406:ERROR:process_info.cc(608)] range at 0xff463000, size 0x230 fully unreadable
+[0913/225406:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/225406:ERROR:exception_snapshot_win.cc(88)] thread ID 5680 not found in process
+[0913/225406:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/225407:ERROR:process_info.cc(608)] range at 0xfeecf000, size 0x230 fully unreadable
+[0913/225407:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/225407:ERROR:exception_snapshot_win.cc(88)] thread ID 12028 not found in process
+[0913/225407:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/230550:ERROR:process_info.cc(608)] range at 0xfedde000, size 0x230 fully unreadable
+[0913/230550:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/230550:ERROR:exception_snapshot_win.cc(88)] thread ID 7500 not found in process
+[0913/230550:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/231055:ERROR:process_info.cc(608)] range at 0xfee93000, size 0x230 fully unreadable
+[0913/231055:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/231055:ERROR:exception_snapshot_win.cc(88)] thread ID 11444 not found in process
+[0913/231055:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/231620:ERROR:process_info.cc(608)] range at 0xfef9e000, size 0x230 fully unreadable
+[0913/231620:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/231620:ERROR:exception_snapshot_win.cc(88)] thread ID 12284 not found in process
+[0913/231620:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/231621:ERROR:process_info.cc(608)] range at 0xfed66000, size 0x230 fully unreadable
+[0913/231621:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/231621:ERROR:exception_snapshot_win.cc(88)] thread ID 10636 not found in process
+[0913/231621:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/233622:ERROR:process_info.cc(608)] range at 0xfe3ce000, size 0x230 fully unreadable
+[0913/233623:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/233623:ERROR:exception_snapshot_win.cc(88)] thread ID 9240 not found in process
+[0913/233623:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/233943:ERROR:process_info.cc(608)] range at 0xff34d000, size 0x230 fully unreadable
+[0913/233943:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/233943:ERROR:exception_snapshot_win.cc(88)] thread ID 8104 not found in process
+[0913/233943:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0913/234140:ERROR:process_info.cc(608)] range at 0xff1ae000, size 0x230 fully unreadable
+[0913/234140:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane.  (0xc0000022)
+[0913/234140:ERROR:exception_snapshot_win.cc(88)] thread ID 5116 not found in process
+[0913/234140:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
