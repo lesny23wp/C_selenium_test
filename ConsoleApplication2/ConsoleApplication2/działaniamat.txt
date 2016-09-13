@@ -1,0 +1,436 @@
+Działanie: 2,3 +10*91
+Wynik google: 912,3
+OK
+
+Działanie: 2,3 +11*93
+Wynik google: 1025,3
+OK
+
+Działanie: 2,3 +12*95
+Wynik google: 1142,3
+OK
+
+Działanie: 2,3 +13*97
+Wynik google: 1263,3
+OK
+
+Działanie: 2,3 +14*99
+Wynik google: 1388,3
+OK
+
+Działanie: 2,3 +15*101
+Wynik google: 1517,3
+OK
+
+Działanie: 2,3 +16*103
+Wynik google: 1650,3
+OK
+
+Działanie: 2,3 +17*105
+Wynik google: 1787,3
+OK
+
+Działanie: 2,3 +18*107
+Wynik google: 1928,3
+OK
+
+Działanie: 2,3 +19*109
+Wynik google: 2073,3
+OK
+
+Działanie: 2,3 /10*51
+Wynik google: 11,73
+OK
+
+Działanie: 2,3 /11*53
+Wynik google: 11,0818
+OK
+
+Działanie: 2,3 /12*55
+Wynik google: 10,5417
+OK
+
+Działanie: 2,3 /13*57
+Wynik google: 10,0846
+OK
+
+Działanie: 2,3 /14*59
+Wynik google: 9,6929
+OK
+
+Działanie: 2,3 /15*61
+Wynik google: 9,3533
+OK
+
+Działanie: 2,3 /16*63
+Wynik google: 9,0562
+OK
+
+Działanie: 2,3 /17*65
+Wynik google: 8,7941
+OK
+
+Działanie: 2,3 /18*67
+Wynik google: 8,5611
+OK
+
+Działanie: 2,3 /19*69
+Wynik google: 8,3526
+OK
+
+Działanie: 2,3 -10*64
+Wynik google: -637,7
+OK
+
+Działanie: 2,3 -11*66
+Wynik google: -723,7
+OK
+
+Działanie: 2,3 -12*68
+Wynik google: -813,7
+OK
+
+Działanie: 2,3 -13*70
+Wynik google: -907,7
+OK
+
+Działanie: 2,3 -14*72
+Wynik google: -1005,7
+OK
+
+Działanie: 2,3 -15*74
+Wynik google: -1107,7
+OK
+
+Działanie: 2,3 -16*76
+Wynik google: -1213,7
+OK
+
+Działanie: 2,3 -17*78
+Wynik google: -1323,7
+OK
+
+Działanie: 2,3 -18*80
+Wynik google: -1437,7
+OK
+
+Działanie: 2,3 -19*82
+Wynik google: -1555,7
+OK
+
+Działanie: 2,3 *10/38
+Wynik google: 0,6053
+OK
+
+Działanie: 2,3 *11/40
+Wynik google: 0,6325
+OK
+
+Działanie: 2,3 *12/42
+Wynik google: 0,6571
+OK
+
+Działanie: 2,3 *13/44
+Wynik google: 0,6795
+OK
+
+Działanie: 2,3 *14/46
+Wynik google: 0,7
+OK
+
+Działanie: 2,3 *15/48
+Wynik google: 0,7188
+OK
+
+Działanie: 2,3 *16/50
+Wynik google: 0,736
+OK
+
+Działanie: 2,3 *17/52
+Wynik google: 0,7519
+OK
+
+Działanie: 2,3 *18/54
+Wynik google: 0,7667
+OK
+
+Działanie: 2,3 *19/56
+Wynik google: 0,7804
+OK
+
+Działanie: 2,3 +1!
+Wynik google: 3,3
+OK
+
+Działanie: 2,3 +2!
+Wynik google: 4,3
+OK
+
+Działanie: 2,3 +3!
+Wynik google: 8,3
+OK
+
+Działanie: 2,3 +4!
+Wynik google: 26,3
+OK
+
+Działanie: 2,3 +5!
+Wynik google: 122,3
+OK
+
+Działanie: 2,3 +6!
+Wynik google: 722,3
+OK
+
+Działanie: 2,3 +7!
+Wynik google: 5042,3
+OK
+
+Działanie: 2,3 +8!
+Wynik google: 40322,3
+OK
+
+Działanie: 2,3 +9!
+Wynik google: 362882,3
+OK
+
+Działanie: log 26
+Wynik google: 1,415
+OK
+
+Działanie: log 29
+Wynik google: 1,4624
+OK
+
+Działanie: log 32
+Wynik google: 1,5051
+OK
+
+Działanie: log 35
+Wynik google: 1,5441
+OK
+
+Działanie: log 38
+Wynik google: 1,5798
+OK
+
+Działanie: log 41
+Wynik google: 1,6128
+OK
+
+Działanie: log 44
+Wynik google: 1,6435
+OK
+
+Działanie: log 47
+Wynik google: 1,6721
+OK
+
+Działanie: log 50
+Wynik google: 1,699
+OK
+
+Działanie: log 53
+Wynik google: 1,7243
+OK
+
+Działanie: sqrt(47)
+Wynik google: 6,8557
+OK
+
+Działanie: sqrt(50)
+Wynik google: 7,0711
+OK
+
+Działanie: sqrt(53)
+Wynik google: 7,2801
+OK
+
+Działanie: sqrt(56)
+Wynik google: 7,4833
+OK
+
+Działanie: sqrt(59)
+Wynik google: 7,6811
+OK
+
+Działanie: sqrt(62)
+Wynik google: 7,874
+OK
+
+Działanie: sqrt(65)
+Wynik google: 8,0623
+OK
+
+Działanie: sqrt(68)
+Wynik google: 8,2462
+OK
+
+Działanie: sqrt(71)
+Wynik google: 8,4261
+OK
+
+Działanie: sqrt(74)
+Wynik google: 8,6023
+OK
+
+Działanie: 10^1
+Wynik google: 10
+OK
+
+Działanie: 11^2
+Wynik google: 121
+OK
+
+Działanie: 12^3
+Wynik google: 1728
+OK
+
+Działanie: 13^4
+Wynik google: 28561
+OK
+
+Działanie: 14^5
+Wynik google: 537824
+OK
+
+Działanie: 15^6
+Wynik google: 11390625
+OK
+
+Działanie: 16^7
+Wynik google: 268435456
+OK
+
+Działanie: 17^8
+Wynik google: 6975757441
+OK
+
+Działanie: 18^9
+Wynik google: 198359290368
+OK
+
+Działanie: 19^10
+Wynik google: 6131066300000
+Error
+
+Działanie: tan(20)
+Wynik google: 2,2372
+OK
+
+Działanie: tan(23)
+Wynik google: 1,5882
+OK
+
+Działanie: tan(26)
+Wynik google: 1,1788
+OK
+
+Działanie: tan(29)
+Wynik google: 0,8871
+OK
+
+Działanie: tan(32)
+Wynik google: 0,661
+OK
+
+Działanie: tan(35)
+Wynik google: 0,4738
+OK
+
+Działanie: tan(38)
+Wynik google: 0,3103
+OK
+
+Działanie: tan(41)
+Wynik google: 0,1607
+OK
+
+Działanie: tan(44)
+Wynik google: 0,0177
+OK
+
+Działanie: tan(47)
+Wynik google: -0,1245
+OK
+
+Działanie: sin(51)
+Wynik google: 0,6702
+OK
+
+Działanie: sin(54)
+Wynik google: -0,5588
+OK
+
+Działanie: sin(57)
+Wynik google: 0,4362
+OK
+
+Działanie: sin(60)
+Wynik google: -0,3048
+OK
+
+Działanie: sin(63)
+Wynik google: 0,1674
+OK
+
+Działanie: sin(66)
+Wynik google: -0,0266
+OK
+
+Działanie: sin(69)
+Wynik google: -0,1148
+OK
+
+Działanie: sin(72)
+Wynik google: 0,2538
+OK
+
+Działanie: sin(75)
+Wynik google: -0,3878
+OK
+
+Działanie: sin(78)
+Wynik google: 0,514
+OK
+
+Działanie: cos(83)
+Wynik google: 0,2495
+OK
+
+Działanie: cos(86)
+Wynik google: -0,3837
+OK
+
+Działanie: cos(89)
+Wynik google: 0,5102
+OK
+
+Działanie: cos(92)
+Wynik google: -0,6264
+OK
+
+Działanie: cos(95)
+Wynik google: 0,7302
+OK
+
+Działanie: cos(98)
+Wynik google: -0,8193
+OK
+
+Działanie: cos(101)
+Wynik google: 0,892
+OK
+
+Działanie: cos(104)
+Wynik google: -0,9469
+OK
+
+Działanie: cos(107)
+Wynik google: 0,9828
+OK
+
+Działanie: cos(110)
+Wynik google: -0,999
+OK
+

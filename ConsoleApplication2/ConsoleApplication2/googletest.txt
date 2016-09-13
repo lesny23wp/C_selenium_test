@@ -1,0 +1,7 @@
+Wynik: OK! Hasło: Warszawa   Wynik: Około 156 000 000 wyników (0,49 s)    Pierwszy wynik: Warszawa - oficjalny portal stolicy Polski   Link: www.um.warszawa.pl/
+Wynik: OK! Hasło: Poznan   Wynik: Około 103 000 000 wyników (0,39 s)    Pierwszy wynik: Strona główna - Poznan.pl   Link: www.poznan.pl/
+Wynik: OK! Hasło: .NET   Wynik: Około 120 000 000 wyników (0,56 s)    Pierwszy wynik: .NET Framework – Wikipedia, wolna encyklopedia   Link: https://pl.wikipedia.org/wiki/.NET_Framework
+Wynik: Error Hasło: testy automatyczne   Wynik: Około 1 190 000 wyników (0,20 s)    Pierwszy wynik: Wprowadzenie do testów automatycznych. Część 1. - Kainos   Link: https://www.kainos.pl/blog/wprowadzenie-do-testow-automatycznych-czesc-1/
+Wynik: Error Hasło: quality assurance   Wynik: Około 134 000 000 wyników (0,30 s)    Pierwszy wynik: Zapewnianie jakości – Wikipedia, wolna encyklopedia   Link: https://pl.wikipedia.org/wiki/Zapewnianie_jakości
+Wynik: OK! Hasło: Programa   Wynik: Około 3 070 000 000 wyników (0,43 s)    Pierwszy wynik: Programa.pl: Dedykowane systemy informatyczne oparte na chmurze   Link: www.programa.pl/
+Wynik: OK! Hasło: OLX   Wynik: Około 434 000 000 wyników (0,44 s)    Pierwszy wynik: Ogłoszenia - Sprzedam, kupię na OLX.pl   Link: olx.pl/
